@@ -1,5 +1,6 @@
-PATH
-  remote: ~/work/tmbedr
+GIT
+  remote: git@github.com:perceptive-naren/tmbedr.git
+  revision: 994e7750c733995af7392cdb51db626a7428e612
   specs:
     tmbedr (0.1.0.alpha)
 
