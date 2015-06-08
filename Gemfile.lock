@@ -1,0 +1,16 @@
+PATH
+  remote: ~/work/tmbedr
+  specs:
+    tmbedr (0.1.0.alpha)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  tmbedr!
