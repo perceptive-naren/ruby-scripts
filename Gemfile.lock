@@ -1,8 +1,8 @@
 GIT
-  remote: git@github.com:perceptive-naren/tmbedr.git
-  revision: 994e7750c733995af7392cdb51db626a7428e612
+  remote: git@github.com:perceptive-naren/embedr-gem.git
+  revision: 740cae0698a3a4bfc748d7ada477f177039b0a9a
   specs:
-    tmbedr (0.1.0.alpha)
+    embedr (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -14,4 +14,4 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
-  tmbedr!
+  embedr!

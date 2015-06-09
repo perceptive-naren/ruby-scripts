@@ -1,5 +1,5 @@
 # Load all the required libraries
-require 'tmbedr'
+require 'embedr'
 require 'json'
 require 'dotenv'
 Dotenv.load
@@ -20,7 +20,7 @@ class Test
 
       }
 end
-test = Tmbedr.get_embed_code(Test::EMBEDR_HASH)
+test = Embedr.get_embed_code(Test::EMBEDR_HASH)
 puts test
 
 
